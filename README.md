@@ -4,6 +4,6 @@
 <a href="https://www.fibe-cdt.eng.cam.ac.uk/staff/monty-jackson"><img src="https://www.fibe-cdt.eng.cam.ac.uk/sites/www.fibe-cdt.eng.cam.ac.uk/files/fibe2_0.jpg"></a>
 
 💡 &nbsp; Energy Efficiency </br>
-🎓 &nbsp; Future PhD in Energy Efficient Healthcare Buildings at the Univeristy of Cambridge </br>
-🎓 &nbsp; MRes Future Infrastructure and Built Environment at the Univeristy of Cambridge </br>
-🎓 &nbsp; BSc Architectural Engineering from the Univeristy of Plymouth </br>
+🎓 &nbsp; Future PhD in Energy Efficient Healthcare Buildings at the University of Cambridge </br>
+🎓 &nbsp; MRes Future Infrastructure and Built Environment at the University of Cambridge </br>
+🎓 &nbsp; BSc Architectural Engineering from the University of Plymouth </br>
